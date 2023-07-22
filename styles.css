@@ -1,0 +1,236 @@
+h1 {
+    font-size: 14px
+}
+
+em {
+    font-weight: bold
+}
+
+h1,
+ol,
+ul,
+li {
+    margin: 0;
+    padding: 0
+}
+
+#sform {
+    height: 65px
+}
+
+#cnt {
+    padding-top: 20px;
+}
+
+#center_col {
+    width: 852px;
+    margin-left: 180px
+}
+
+#hdtb-msb-vis {
+    display: inline;
+    margin-left: 195px
+}
+
+#searchform {
+    z-index: 127;
+    position: absolute;
+    top: 20px
+}
+
+.XoaYSb {
+    display: flex
+}
+
+.med {
+    font-size: medium
+}
+
+.iJddsb {
+    display: inline-block
+}
+
+.pR49Ae {
+    flex: 100%;
+    height: 34px
+}
+
+.z1asCe {
+    height: 24px;
+    width: 24px
+}
+
+.hdtb-mitem {
+    display: inline-block
+}
+
+.clear-button {
+    align-items: center
+}
+
+.a4bIc {
+    display: flex;
+    flex: 1;
+    flex-wrap: wrap
+}
+
+.A8SBwf {
+    margin-left: 133px;
+    padding-left: 60px
+}
+
+.SDkEP {
+    flex: 1;
+    display: flex;
+    padding: 5px 4px 0 16px
+}
+
+.dRYYxd {
+    display: flex;
+    flex: 0 0 auto;
+    margin-top: -5px
+}
+
+.HF9Klc {
+    margin-right: 5px;
+    vertical-align: text-bottom
+}
+
+.gLFyf {
+    border: none;
+    flex: 100%;
+    margin-top: -37px;
+    font-size: 16px
+}
+
+.Tg7LZd {
+    height: 44px;
+    width: 44px;
+    background: transparent;
+    border: none;
+    flex: 0 0 auto;
+    padding: 0
+}
+
+.RNNXgb {
+    display: flex;
+    border: 1px solid #dfe1e5;
+    width: 800px;
+    border-radius: 24px;
+    height: 44px
+}
+
+.RNNXgb:hover,
+.RNNXgb {
+    box-shadow: 0 1px 1px 0 rgba(32, 33, 36, 0.28);
+    border-color: rgba(223, 225, 229, 0)
+}
+
+
+/*MAIN BODY STYLES */
+
+.arrow {
+    font-family: arial;
+    font-weight: 500;
+    color: blue;
+    font-size: 18px;
+}
+
+.didyou {
+    color: rgb(220, 0, 0);
+    font-size: 18px;
+    font-weight: 600;
+    text-decoration: underline;
+}
+
+.email,
+a {
+    margin-left: 10px;
+    color: green;
+}
+
+.sub {
+    font-size: 14px;
+}
+
+br {
+    content: "";
+    margin: 1.5em;
+    display: block;
+    font-size: 24%;
+}
+
+.UL {
+    margin-left: 20px;
+}
+
+.subli {
+    margin-left: 40px;
+}
+
+.foot {
+    margin-left: 2px;
+}
+
+.hhh {
+    margin-bottom: 20px;
+}
+
+#fbar {
+    line-height: 20px;
+}
+
+.first {
+    width: 50%;
+}
+
+.right {
+    float: right;
+}
+
+.contactHead {
+    color: blue;
+    font-weight: 500;
+    text-decoration: underline;
+}
+
+body {
+    font-family: Helvetica;
+}
+
+.headrr {
+    font-family: arial;
+    font-weight: 300;
+    color: blue;
+    font-size: 18px;
+}
+
+.headrr:hover {
+    text-decoration: underline;
+}
+
+.name {
+    font-family: arial;
+    font-weight: 400;
+    color: blue;
+    font-size: 20px;
+}
+
+.contact {
+    text-decoration: underline;
+}
+
+.updated {
+    font-size: 12px;
+    text-align: right;
+    color: rgba(50, 0, 20, 0.4);
+    padding-top: 80px;
+}
+
+#found {
+    font-size: 14px;
+}
+
+body {
+    /* width: 150%; */
+}
